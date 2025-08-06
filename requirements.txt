@@ -1,0 +1,9 @@
+torch>
+torchvision
+pytorch-lightning
+detectron2
+transformers
+opencv-python
+albumentations
+wandb
+tensorboard
